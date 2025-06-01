@@ -56,7 +56,7 @@ export const ImageGenerator: React.FC<ImageGeneratorProps> = ({
     'wolf-of-wall-street-1': '/images-all/wolf of the wall street 1.jpg',
     'wolf-of-wall-street-2': '/images-all/wolf of wall street 2.jpg',
     // Gym/Workout
-    'gym-beast': 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop&crop=face',
+    'gym-beast': 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w00&h=800&fit=crop&crop=face',
     'deadlift-power': 'https://images.unsplash.com/photo-1549476464-37392f717541?w=800&h=800&fit=crop&crop=face',
     'crossfit-athlete': 'https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800&h=800&fit=crop&crop=face',
     // Legacy/other backgrounds

@@ -3,6 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Label } from '@/components/ui/label';
 import { Download, Move, Layers } from 'lucide-react';
+import humanDetection from '../src/utils/humanDetection';
 import { detectHumanInBackground, getOptimalTextPosition, detectHumanInBackgroundAuto, detectHumanMaskInImage } from '../src/utils/humanDetection';
 import { toast } from 'sonner';
 

@@ -32,6 +32,15 @@ export default defineConfig(({ mode }) => ({
   extensions: ['.ts', '.tsx', '.js', '.jsx', '.json']
 },
       },
+        publicDir: 'public',
+  build: {
+    assetsDir: 'assets',
+    rollupOptions: {
+      output: {
+        assetFileNames: 'assets/[name].[hash][extname]'
+      },
+    },
+  },
     },
   },
 }));

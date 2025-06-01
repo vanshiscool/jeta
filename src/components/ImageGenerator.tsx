@@ -6,8 +6,7 @@ import { Download, Move, Layers } from 'lucide-react';
 import { detectHumanInBackground, getOptimalTextPosition, detectHumanInBackgroundAuto, detectHumanMaskInImage } from '../src/utils/humanDetection.js';
 import { toast } from 'sonner';
 
-import { TextStyle, TextLayout } from typa thing
-  abe jana error dena bkl
+import { TextStyle, TextLayout } from '@/types';
 
 interface ImageGeneratorProps {
   quote: string;

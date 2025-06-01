@@ -1,73 +1,62 @@
-# Welcome to your Lovable project
+# JETA
 
-## Project info
+JETA is a motivation poster creator ai which creates motivation posters which are viral ready!
+just login or sign up on JETA, go to single creation for personalized posters and go to batch generation for 
+generating posters in bundle ready to gain followers and fame on instagram? and also create
 
-**URL**: https://lovable.dev/projects/72b610a0-4e37-468b-b753-de0e337a1a83
+First go the homepage.
 
-## How can I edit this code?
+![image](https://github.com/user-attachments/assets/3a1d8ca7-ce1d-4577-9e83-050bc9cd6650)
 
-There are several ways of editing your application.
+Then login or sign up.
 
-**Use Lovable**
+![image](https://github.com/user-attachments/assets/547d6097-53de-46e4-9530-f5585affbfe8)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/72b610a0-4e37-468b-b753-de0e337a1a83) and start prompting.
+Then create your own customize motivational posters!
 
-Changes made via Lovable will be committed automatically to this repo.
+![image](https://github.com/user-attachments/assets/5609030b-0d8f-4794-af63-c00e0cbe82ab)
 
-**Use your preferred IDE**
+![image](https://github.com/user-attachments/assets/801855e6-0684-4ffc-b0b8-ebee48ac1eef)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+![image](https://github.com/user-attachments/assets/34ca6850-f8fc-48d0-9b2e-9e5db718553c)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+![image](https://github.com/user-attachments/assets/899d8f10-6189-4cdb-993a-e27413d29168)
 
-Follow these steps:
+THIS is the BATCH GENERATION feature which generates images in mass!
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+![image](https://github.com/user-attachments/assets/d6be6837-0fe7-4267-80cf-0823bf95bf07)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+![image](https://github.com/user-attachments/assets/6fae80d8-bd94-471d-b764-28872539a427)
 
-# Step 3: Install the necessary dependencies.
-npm i
+Enjoy editing......
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+To run this locally!
 
-**Edit a file directly in GitHub**
+Clone the repo by 
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+`git clone {repo_name}`
 
-**Use GitHub Codespaces**
+then open the directory in an IDE
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+and run:
 
-## What technologies are used for this project?
+`npm install`
 
-This project is built with:
+and then:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+`npm run dev`
 
-## How can I deploy this project?
+DONES!
+We'd be happy to collaborate and enhance this project!
 
-Simply open [Lovable](https://lovable.dev/projects/72b610a0-4e37-468b-b753-de0e337a1a83) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+
+
+
+
+
+
+

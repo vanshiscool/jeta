@@ -25,6 +25,12 @@ export default defineConfig(({ mode }) => ({
         manualChunks: {
           vendor: ['react', 'react-dom'],
         },
+        resolve: {
+  alias: {
+    "@": path.resolve(__dirname, "./src"),
+  },
+  extensions: ['.ts', '.tsx', '.js', '.jsx', '.json']
+},
       },
     },
   },

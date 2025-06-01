@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black square with rotation -->
+  <rect x="4" y="4" width="24" height="24" rx="8" fill="black" transform="rotate(3 16 16)"/>
+  <!-- White square inside -->
+  <rect x="12" y="12" width="8" height="8" rx="2" fill="white" transform="rotate(-6 16 16)"/>
+  <!-- Small black dot -->
+  <circle cx="24" cy="8" r="2" fill="black"/>
+  <!-- Small white dot inside -->
+  <circle cx="24" cy="8" r="0.75" fill="white"/>
+</svg> 

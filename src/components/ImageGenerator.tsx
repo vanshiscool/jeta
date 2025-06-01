@@ -41,7 +41,7 @@ export const ImageGenerator: React.FC<ImageGeneratorProps> = ({
 
   const backgroundImages = {
     // Football
-    'football-action': '/images-all/messi.webp',
+    'football-action': 'public/images-all/messi.webp',
     // Tech (renamed)
     'elon-musk': '/images-all/elon musk.webp',
     'mark-zuckerberg': '/images-all/mark zuckerberg..webp',

@@ -4,7 +4,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Label } from '@/components/ui/label';
 import { Download, Move, Layers } from 'lucide-react';
 import { toast } from 'sonner';
-import { detectHumanInBackground, getOptimalTextPosition, detectHumanInBackgroundAuto, detectHumanMaskInImage } from '@/utils/humanDetection.ts';
+import { detectHumanInBackground, getOptimalTextPosition, detectHumanInBackgroundAuto, detectHumanMaskInImage } from '../utils/humanDetection';
 import { TextStyle, TextLayout } from '@/types';
 
 interface ImageGeneratorProps {
